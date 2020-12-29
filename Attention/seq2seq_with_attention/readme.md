@@ -1,5 +1,5 @@
 - 학습 결과  
   - Epoch 0  
-  -  ![2](C:\Users\USER\Desktop\gitgit\NLP_desk\Attention\seq2seq_with_attention\img\2.PNG)  
+  -  ![2]('Attention/seq2seq_with_attention/img/1.PNG')  
   - Epoch 1  
   - ![1](C:\Users\USER\Desktop\gitgit\NLP_desk\Attention\seq2seq_with_attention\img\1.PNG)
